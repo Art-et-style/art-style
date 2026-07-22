@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://artetstyle.fr/sitemap.xml
